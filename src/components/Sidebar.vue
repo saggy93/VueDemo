@@ -1,7 +1,6 @@
 <template>
   <div class="hello">
-    <h1>HelloWorld</h1>
-    
+   Sidebar
   </div>
 </template>
 
@@ -12,8 +11,6 @@ export default {
     msg: String
   }
 }
-
-
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->

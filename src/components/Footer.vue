@@ -1,8 +1,5 @@
 <template>
-  <div class="hello">
-    <h1>HelloWorld</h1>
-    
-  </div>
+ <div>Footer</div>
 </template>
 
 <script>
@@ -12,8 +9,6 @@ export default {
     msg: String
   }
 }
-
-
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
